@@ -6,7 +6,7 @@ This is an analysis showing  the fully paid,the delinquent and the current debto
 
 It also shows those whose payment are verified and unverified.
 
-
+![](mortgage&rent2.png)
 
 
 PROBLEM STATEMENT
