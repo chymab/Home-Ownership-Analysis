@@ -2,9 +2,9 @@ MORTGAGE-AND-RENT-ANALYSIS
 
 INTRODUCTION
 
--This is an analysis showing  the fully paid,the delinquent and the current debtors in a mortgage.
+This is an analysis showing  the fully paid,the delinquent and the current debtors in a mortgage.
 
--it also shows those whose payment are verified and unverified.
+It also shows those whose payment are verified and unverified.
 
 
 ![](mortgage&rent.png)
