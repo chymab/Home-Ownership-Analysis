@@ -1,4 +1,4 @@
-MORTGAGE-AND-RENT-ANALYSIS
+HOME-OWNERSHIP-ANALYSIS
 
 INTRODUCTION
 
@@ -23,7 +23,13 @@ Here the microsoft excel was ,used to sort out the verified from  the unverified
 
 DATA ANALYSIS
 
-![](mortgage&rent.png)
+    RAW DATA                     
+![](mortgage&rent2.png)
+
+ANALYSED DATA
+ ![](mortgage&rent.png)
+                       
+
 
 
 
