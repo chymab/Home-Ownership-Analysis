@@ -1,27 +1,27 @@
-#HOME-OWNERSHIP-ANALYSIS
+HOME-OWNERSHIP-ANALYSIS
 
-##INTRODUCTION
+INTRODUCTION
 
-####This is an analysis showing  the fully paid,the delinquent and the current debtors in a mortgage.
+This is an analysis showing  the fully paid,the delinquent and the current debtors in a mortgage.
 
-####It also shows those whose payment are verified and unverified.
+It also shows those whose payment are verified and unverified.
 
 ![](mortgage&rent2.png)
 
 
-##PROBLEM STATEMENT
+PROBLEM STATEMENT
 
 -To easily differentiate fully paid individuals from the delinquent and current.
 
 -Also to easily determine those whose payments are verified by making them to appear in the same roll after the the unverified.
 
-##DATA SOURCE
+DATA SOURCE
 
 This data was gotten from my instructor who teaches  in Dahel techies.
 
 Here the microsoft excel was ,used to sort out the verified from  the unverified and the fully paid from the delinquent and current.
 
-##DATA ANALYSIS
+DATA ANALYSIS
 
     RAW DATA                     
 ![](mortgage&rent2.png)
@@ -29,9 +29,9 @@ Here the microsoft excel was ,used to sort out the verified from  the unverified
  ANALYSED DATA
  ![](mortgage&rent.png)
  
-#### From both datas above,it can be seen that the raw data showed a list of fully payed and the verifed being scattered in differnt rolls,but after my analysis,it all came together for easy access in their different rolls and columns.
+From both datas above,it can be seen that the raw data showed a list of fully payed and the verifed being scattered in differnt rolls,but after my analysis,it all came together for easy access in their different rolls and columns.
 
- ##RECOMMENDATION
+ RECOMMENDATION
  
  -From  my analysis,it can be seen that those who has completed their payment are in greater number compared to those who have not.
  
