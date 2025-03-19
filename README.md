@@ -23,9 +23,9 @@ Here the microsoft excel was ,used to sort out the verified from  the unverified
 
 DATA ANALYSIS
 
-    Raw data               |         Analysed data
-:----------------------:   |      :----------------------:
-![](mortgage&rent2.png)    |      ![](mortgage&rent.png)
+ |  Raw data               |         Analysed data        |
+ |:---------------------:  |      :---------------------: |
+ |![](mortgage&rent2.png)  |      ![](mortgage&rent.png)  |
 
  From both datas above,it can be seen that the raw data showed a list of fully payed and the verifed being scattered in differnt rolls,but after my analysis,it all came together for easy access in their different rolls and columns.
 
